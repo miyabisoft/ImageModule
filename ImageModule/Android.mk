@@ -1,7 +1,7 @@
 include $(CLEAR_VARS)
 
 #opencv
-OPENCVROOT:= /Users/macmin/Documents/opencv2/OpenCV-android-sdk
+OPENCVROOT:= /Users/macmin/Documents/OpenCV-android-sdk
 OPENCV_CAMERA_MODULES:=off
 OPENCV_INSTALL_MODULES:=on
 #OPENCV_LIB_TYPE:=SHARED
